@@ -1,7 +1,5 @@
 # iutools: language tools for Inuktut
 
-Hello
-
 _iutools_ is an Open Source project that aims at developing basic language 
 tools for Inuktut, the language of the Inuit people.
  
