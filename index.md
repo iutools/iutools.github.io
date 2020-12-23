@@ -14,6 +14,7 @@ as well as "developer facing" tools like:
 - Tokenizer
 
 For more information, see the project's README files:
-
-    https://github.com/iutools/iutools/blob/master/README.md
-    https://github.com/iutools/iutools/blob/master/README-install.md
+- [README.m](https://github.com/iutools/iutools/blob/master/README.md)
+- [README-install](https://github.com/iutools/iutools/blob/master/README-install.md)
+    
+    
